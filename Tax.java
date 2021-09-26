@@ -9,4 +9,4 @@ public class Tax
          System.out.println();
       }
    }
-}
+} //ends tax class
